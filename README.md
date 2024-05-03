@@ -1,7 +1,7 @@
 # Aula de WEB
 # Sobre o projeto
 
-https://theovigano.github.io/Aula-de-JS/
+https://theovigano.github.io/Teste-Formul-rio/
 
 Introdução da criação de formulários em web
 
